@@ -2,11 +2,11 @@
 
 // Define the structure 'employee'
 struct employee {
-    char name[25];       // Name of the employee (string of 25 characters)
-    int id;              // Employee ID (integer)
-    char department[20]; // Department (string of 20 characters)
-    float salary;        // Salary (float)
-    char email[50];      // Email (string of 50 characters)
+    char name[25];       
+    int id;              
+    char department[20]; 
+    float salary;      
+    char email[50];      
 };
 
 int main() {
